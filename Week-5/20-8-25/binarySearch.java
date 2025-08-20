@@ -25,8 +25,9 @@ public class binarySearch {
     }
 
     public static void main(String[] args) {
-        int numbers = { 100, 465, 45, 0, 94, 8, 956 };
-        binarySearch(numbers, 20);
+        int[] numbers = { 100, 465, 45, 0, 94, 8, 956 };
+        int temp = binarySearch(numbers, 20);
+        System.out.println(temp);
     }
 
 }
