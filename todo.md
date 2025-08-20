@@ -7,3 +7,5 @@ b = (byte)a;
 ```
 
 ## 2.Explore type casting.
+
+## 3. complete week-5/20-08-25/stringLinearSearch.java
