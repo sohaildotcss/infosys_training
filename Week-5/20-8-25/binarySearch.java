@@ -29,5 +29,4 @@ public class binarySearch {
         int temp = binarySearch(numbers, 20);
         System.out.println(temp);
     }
-
 }
