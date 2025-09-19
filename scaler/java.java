@@ -12,6 +12,5 @@ public class java {
         String[] names = new String[5];
         System.out.println(names[0]);
 
-        
     }
 }
